@@ -1,7 +1,7 @@
 {
   "name": "FrizzQOL_Area_Repair",
   "version_number": "0.1.0",
-  "website_url": "",
+  "website_url": "https://github.com/frizzlebeard/FrizzQOL.AreaRepair",
   "description": "Hammer repair also fixes damaged pieces around the one you hit. Extra pieces cost nothing.",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2333"

@@ -20,6 +20,10 @@ Remove any older Area Repair plugin, including aruberuto-AreaRepair, before you 
 
 Install this on the dedicated server and on every client.
 
+## Source
+
+https://github.com/frizzlebeard/FrizzQOL.AreaRepair
+
 ## Install
 
 Install with r2modman or the Thunderstore Mod Manager.
