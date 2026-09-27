@@ -33,4 +33,4 @@ To install by hand, copy `FrizzQOL.AreaRepair.dll` into `BepInEx/plugins`.
 
 ## License
 
-[MIT](LICENSE). You can use, copy, change, and share this mod. Keep the copyright notice with any copy.
+[MIT License](https://opensource.org/licenses/MIT). You can use, copy, change, and share this mod. The LICENSE file shipped with the package has the full text.
